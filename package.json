@@ -1,0 +1,15 @@
+{
+  "name": "devjobs-full-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "t3patterson",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.14.0",
+    "mysql2": "^1.4.2"
+  }
+}
