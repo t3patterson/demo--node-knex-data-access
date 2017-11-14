@@ -19,7 +19,7 @@ mysql -u root -p -e "GRANT ALL ON *.* TO '«user»'@'«localhost»'";
 ----
 #### Install knex
 ```
-npm i -g gnex
+npm i -g knex
 ```
 
 ----
